@@ -1,14 +1,5 @@
----
-title: "Logic Lab"
-type: Lab
-duration: "1:25"
-creator:
-    name: Wellington Moreno
-    city: Santa Monica
----
-
-
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Logic Lab
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+# Computational Thinking
 
 ## Introduction
 
@@ -16,12 +7,9 @@ creator:
 
 In this lab, we will practice Computational Thinking by breaking down everyday activities into specific steps.
 
-> ***Note:*** _This Lab is designed to be done independently._
-
-
 ### Why we are doing it
 
-Computational Thinking (CT) is a problem solving process that includes a number of characteristics and dispositions. CT is essential to the development of computer applications, but it can also be used to support problem solving across all disciplines, including the humanities, math, and science. Students who learn CT across the curriculum can begin to see a relationship between academic subjects, as well as between life inside and outside of the classroom.
+Computational thinking (CT) is a problem solving process that includes a number of characteristics and dispositions. CT is essential to the development of computer applications, but it can also be used to support problem solving across all disciplines, including the humanities, math, and science. Students who learn CT across the curriculum can begin to see a relationship between academic subjects, as well as between life inside and outside of the classroom.
 
 Computational Thinking is what allows you to "Think in Code".
 
@@ -96,17 +84,9 @@ Explain the steps involved in the following
 + How do you decide what to wear `[High, Medium, Low]`
 
 
-### Starter code
-
-There is no starter code.
-
-### Solution Code
-
-There is no solution code.
-
 ## Deliverables
 
-You can write your assignment in a plaintext (`.txt`) file, or a Word document - it should look like the example above.
+Write in a plaintext (`.txt`) file - it should look like the example above.
 
 ### Bonus Activities
 
